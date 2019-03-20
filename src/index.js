@@ -17,9 +17,10 @@ import 'admin-lte';
  //import '../dist/styles.css'
 import './css/bootstrap.min.css'
 import './css/AdminLTE.css'
-import './css/skins/_all-skins.min.css'
+import './css/skins/_all-skins.css'
 import './css/ionicons.min.css'
 import './css/font-awesome.min.css'
+import './css/style.css'
 
 class MyComponent extends Component {  
   render() {    
